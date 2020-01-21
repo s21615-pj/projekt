@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1579452848 source:c:\users\leszek\desktop\cwiczenia\milioner\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1579452848 source:c:\users\leszek\desktop\milioner\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<algorithm>
+	<string>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
